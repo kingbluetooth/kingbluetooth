@@ -1,4 +1,4 @@
-# Hi, I'm King Bluetooth
+# King Bluetooth
 
 I build practical developer tools, automation, and open-source software.
 
